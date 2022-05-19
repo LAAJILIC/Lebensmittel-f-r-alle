@@ -1,0 +1,22 @@
+export const DBgroceries = [
+{"id":1,"product_name":"Tea - Camomele","product_code":"16590-357","product_price":"€3,58"},
+{"id":2,"product_name":"Guava","product_code":"10096-0304","product_price":"€0,50"},
+{"id":3,"product_name":"Vol Au Vents","product_code":"0409-3390","product_price":"€0,30"},
+{"id":4,"product_name":"Beer - Rickards Red","product_code":"43419-708","product_price":"€8,14"},
+{"id":5,"product_name":"Eggplant Oriental","product_code":"13913-003","product_price":"€3,92"},
+{"id":6,"product_name":"Wine - Rioja Campo Viejo","product_code":"54868-1547","product_price":"€9,90"},
+{"id":7,"product_name":"Wine - Red, Antinori Santa","product_code":"10578-013","product_price":"€7,65"},
+{"id":8,"product_name":"Beef - Bresaola","product_code":"55910-977","product_price":"€4,59"},
+{"id":9,"product_name":"Bread - Crusty Italian Poly","product_code":"63029-301","product_price":"€8,28"},
+{"id":10,"product_name":"White Baguette","product_code":"52039-001","product_price":"€3,27"},
+{"id":11,"product_name":"Coffee - Irish Cream","product_code":"55315-101","product_price":"€1,31"},
+{"id":12,"product_name":"Coke - Diet, 355 Ml","product_code":"66336-502","product_price":"€0,39"},
+{"id":13,"product_name":"Nantucket - Orange Mango Cktl","product_code":"62011-0136","product_price":"€1,16"},
+{"id":14,"product_name":"Drambuie","product_code":"0486-1125","product_price":"€4,89"},
+{"id":15,"product_name":"Pork - Suckling Pig","product_code":"63777-262","product_price":"€9,43"},
+{"id":16,"product_name":"Sage - Rubbed","product_code":"62699-3313","product_price":"€9,88"},
+{"id":17,"product_name":"Asparagus - White, Fresh","product_code":"65044-1007","product_price":"€3,65"},
+{"id":18,"product_name":"Cabbage - Green","product_code":"61442-321","product_price":"€4,00"},
+{"id":19,"product_name":"V8 - Vegetable Cocktail","product_code":"49967-483","product_price":"€3,36"},
+{"id":20,"product_name":"Wine - Alsace Gewurztraminer","product_code":"14783-062","product_price":"€5,29"}
+]
