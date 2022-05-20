@@ -1,0 +1,28 @@
+.App {
+    background-color: #c0e5f5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+
+  .add-product {
+    margin-top: 20px;
+  }
+  
+  .display-products {
+    margin-top: 20px;
+  }
+  
+
+  .dispaly-single-product {
+    background-color: #f844d4;
+    width: 400px;
+    height: 150px;
+    padding: 20px;
+    margin: 30px;
+    border-radius: 8px;
+    text-align: center;
+    font-size: calc(3px + 2vmin);
+    color: rgb(49, 1, 38);
+  }
